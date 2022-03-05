@@ -1,4 +1,4 @@
-#About this application 
+# About this application 
 
 The Jamming Project is a Spotify utility program that was completed through the Codecademy program for Web Development. It is meant to serve as a case study on fully developing a React application and implementing API's.
 
