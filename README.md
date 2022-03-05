@@ -13,7 +13,8 @@ In this application, users may conduct searches for certain tracks, artists, or 
 
 Screenshots
 This is the empty landing page
-jamming-empty
+![Homepage](https://user-images.githubusercontent.com/21344280/156898622-5264e6e6-65fb-409e-86c2-d05e710db5c4.JPG)
 
-This is the web page after there has been a search for a track
-jamming-search
+
+This is the web page after there has been a search for an artist
+![Artist](https://user-images.githubusercontent.com/21344280/156898639-739f6e6f-2952-46e2-aa8d-cd0ad0d47ff5.jpg)
