@@ -1,7 +1,5 @@
 import React from 'react';
-
 import './TrackList.css';
-
 import Track from '../Track/Track';
 
 class TrackList extends React.Component {
@@ -10,7 +8,7 @@ class TrackList extends React.Component {
             <div className="TrackList">
                 {   
                 /* had to add this.props.tracks && because of blank white page */
-                    this.props.tracks && this.props.tracks.map(track => {
+                    this.props.tracks.map(track => {
                         return <Track track={track} key={track.id} onAdd={this.props.onAdd} onRemove={this.props.onRemove} isRemoval={this.props.isRemoval}/>
                     })
                 }
