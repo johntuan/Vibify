@@ -1,6 +1,6 @@
 # About this application 
 
-The Jamming Project is a Spotify utility program that was completed through the Codecademy program for Web Development. It is meant to serve as a case study on fully developing a React application and implementing API's.
+The Vibify Project is a Spotify utility program that was completed through the Codecademy program for Web Development. It is meant to serve as a case study on fully developing a React application and implementing API's.
 
 The API has been removed from the code and thus will no longer work. If you'd like to test it for yourself you must add your own key which can be obtained by following the instruction provided here: https://developer.spotify.com/. Any further development was outside of the current scope of this project.
 
